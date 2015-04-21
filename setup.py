@@ -18,8 +18,8 @@ if sys.argv[-1] == "publish":
 required = ['requests']
 
 setup(
-    name='stathat',
-    version='0.0.2',
+    name='tg-stathat',
+    version='0.0.3',
     description='StatHat.com API Wrapper.',
     long_description=open('README.rst').read(),
     author='Kenneth Reitz',
